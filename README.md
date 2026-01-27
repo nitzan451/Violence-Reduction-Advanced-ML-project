@@ -1,12 +1,13 @@
-# Violence-Reduction-Advanced-ML-project 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f39b4b62-8969-485e-904c-0ca00a54b2f4" />
+# Violence Reduction – Advanced Machine Learning Project
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67fec910-ef02-4237-a9fe-456833f35603" />
+
 This project applies supervised and unsupervised machine learning techniques to analyze and predict violent incidents in the city of Chicago, with a specific focus on distinguishing fatal from non-fatal events.
 
 The work was completed as part of the Machine Learning and Advanced Machine Learning courses.
 
 ---
 
-##  Project Objectives
+## Project Objectives
 - Predict whether a violent incident will result in a fatal outcome using classification models.
 - Explore hidden spatial and temporal patterns in violent incidents using clustering.
 - Address real-world challenges such as class imbalance and noisy data.
@@ -14,7 +15,7 @@ The work was completed as part of the Machine Learning and Advanced Machine Lear
 
 ---
 
-##  Dataset
+## Dataset
 The dataset used in this project is:
 
 **Violence Reduction – Victims of Homicides and Non-Fatal Shootings**
@@ -27,7 +28,7 @@ The data is provided as a CSV file and can be found in the `data/` directory.
 
 ---
 
-##  Methods and Models
+## Methods and Models
 
 ### Supervised Learning (Classification)
 The following models were evaluated:
@@ -47,7 +48,7 @@ Hyperparameter tuning and decision-threshold optimization were applied to the to
 
 ---
 
-##  Evaluation Metrics
+## Evaluation Metrics
 Models were evaluated using:
 - Accuracy
 - Precision
